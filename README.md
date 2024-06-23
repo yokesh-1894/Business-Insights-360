@@ -141,7 +141,6 @@ In this project, since we are using MySQL as the database, we will have to trans
 
 https://app.powerbi.com/view?r=eyJrIjoiNzIwMDRmNzAtZGJjMS00YjVmLTg3NTYtZGY4NWQwMGIxZTZkIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9
 
-  https://app.powerbi.com/view?r=eyJrIjoiNzIwMDRmNzAtZGJjMS00YjVmLTg3NTYtZGY4NWQwMGIxZTZkIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9
 
     
     
