@@ -139,7 +139,7 @@ In this project, since we are using MySQL as the database, we will have to trans
   
 ## Interactive Dashboard
 
-https://app.powerbi.com/view?r=eyJrIjoiNzIwMDRmNzAtZGJjMS00YjVmLTg3NTYtZGY4NWQwMGIxZTZkIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9
+https://app.powerbi.com/view?r=eyJrIjoiMzNiZmI0YzEtN2ViNi00MjA2LTg4MGEtN2I5MTkyZjg2YzkxIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9&pageName=ReportSectione1bc1cbf18e18d33dbed
 
 
     
